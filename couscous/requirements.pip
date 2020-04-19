@@ -1,0 +1,7 @@
+audiofile
+black
+isort
+numba
+numpy
+pytest
+sounddevice
